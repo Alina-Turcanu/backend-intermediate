@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="069cd80c-2cc6-4055-92f0-a24970c6ba91" name="Changes" comment="backend-intermediate" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2iNWHwYISuppjgq9HrLMHgcJk0f" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ex12.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ex5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ex6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.src.teme.temeColectii.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Mihaela/IdeaProjects/backend-intermediate&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.ex12">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="colections.exercitii.ex7countwords.Main" />
+      <module name="intermediate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="colections.exercitii.ex7countwords.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.colections.exercitii.ex12" />
+      <module name="intermediate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.colections.exercitii.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.teme.temeColectii.ex5" />
+      <module name="intermediate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.teme.temeColectii.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.teme.temeColectii.ex6" />
+      <module name="intermediate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.teme.temeColectii.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="src.teme.temeColectii.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.teme.temeColectii.Main" />
+      <module name="intermediate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.teme.temeColectii.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ex12" />
+        <item itemvalue="Application.src.teme.temeColectii.Main" />
+        <item itemvalue="Application.ex6" />
+        <item itemvalue="Application.ex5" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="069cd80c-2cc6-4055-92f0-a24970c6ba91" name="Changes" comment="" />
+      <created>1719331430848</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719331430848</updated>
+      <workItem from="1719331431921" duration="722000" />
+      <workItem from="1719486487675" duration="9672000" />
+      <workItem from="1719586256388" duration="1345000" />
+      <workItem from="1719587634383" duration="34000" />
+      <workItem from="1719587763345" duration="124000" />
+      <workItem from="1719587919135" duration="57000" />
+    </task>
+    <task id="LOCAL-00001" summary="backend-intermediate">
+      <option name="closed" value="true" />
+      <created>1719331963628</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719331963628</updated>
+    </task>
+    <task id="LOCAL-00002" summary="backend-intermediate">
+      <option name="closed" value="true" />
+      <created>1719587175239</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1719587175239</updated>
+    </task>
+    <task id="LOCAL-00003" summary="backend-intermediate">
+      <option name="closed" value="true" />
+      <created>1719587254744</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1719587254744</updated>
+    </task>
+    <task id="LOCAL-00004" summary="backend-intermediate">
+      <option name="closed" value="true" />
+      <created>1719587389069</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1719587389069</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="backend-intermediate" />
+    <option name="LAST_COMMIT_MESSAGE" value="backend-intermediate" />
+  </component>
+</project>

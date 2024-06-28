@@ -1,0 +1,8 @@
+# Default ignored files
+/../../backend-intermediate./.idea/shelf/
+/../../backend-intermediate./.idea/workspace.xml
+# Editor-based HTTP Client requests
+/../../backend-intermediate./.idea/httpRequests/
+# Datasource local storage ignored files
+/../../backend-intermediate./.idea/dataSources/
+/../../backend-intermediate./.idea/dataSources.local.xml
