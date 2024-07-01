@@ -1,4 +1,4 @@
-package src.teme.temeColectii;
+package temeColectii;
 
 import java.util.HashSet;
 import java.util.List;
