@@ -23,14 +23,5 @@ public class Main {
         coins.sort(new MIntYearComparator());
 
         System.out.println(coins);
-
-
-
-        System.out.println(coins);
-
-
-
-
-
     }
 }

@@ -1,0 +1,4 @@
+ackage oop.teme.ex4;
+
+public class abstract BaseEntity {
+}

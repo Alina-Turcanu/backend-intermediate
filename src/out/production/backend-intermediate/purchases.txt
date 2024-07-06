@@ -1,0 +1,5 @@
+Purchase{name='Ciocolata', price=100.0, category=EAT}
+Purchase{name='Sandale', price=150.0, category=CLOTHES}
+Purchase{name='Cinema', price=200.0, category=DISTRACTION}
+Purchase{name='tralala', price=200.0, category=ELSE}
+Purchase{name='Bluza', price=300.0, category=CLOTHES}

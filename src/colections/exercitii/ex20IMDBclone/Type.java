@@ -1,4 +1,4 @@
-package exercitii.ex20IMDBclone;
+package colections.exercitii.ex20IMDBclone;
 
 public enum Type {
 

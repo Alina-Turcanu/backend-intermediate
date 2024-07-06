@@ -1,4 +1,4 @@
-package exercitii.ex20IMDBclone;
+package colections.exercitii.ex20IMDBclone;
 
 public enum Review {
 
@@ -10,11 +10,10 @@ public enum Review {
 
     private final int reviewValue;
 
-    public int getReviewValue() {
-        return reviewValue;
-    }
-
     Review (int reviewValue){
         this.reviewValue = reviewValue;
+    }
+    public int getReviewValue() {
+        return reviewValue;
     }
 }

@@ -1,4 +1,4 @@
-package exercitii.ex17anagrame;
+package colections.exercitii.ex17anagrame;
 
 import java.util.HashMap;
 import java.util.Map;
