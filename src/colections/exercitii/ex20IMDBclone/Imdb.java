@@ -45,7 +45,7 @@ public class Imdb {
                 //Genre key = movie.getGenre();
                 //List<Movie> list = moviesByGenre.get(key);
                 //list.add(movie);
-                moviesByGenre.get(movie.getGenre()).add(movie);
+                moviesByGenre.get(movie.getGenre())    .add(movie);
             }
         }
         return moviesByGenre;

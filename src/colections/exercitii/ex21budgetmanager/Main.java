@@ -26,9 +26,9 @@ public class Main {
         System.out.println(user.getPurchases());
         System.out.println("Clothes purchases:" + user.getAllPurchasesByCategory(CLOTHES));
         System.out.println("Toate cheltuielile grupate pe categorii sunt:" + user.groupPurchasesByCategory());
-        System.out.println("Categoria cu cele mai mari cheltuieli ale User-ului1 este:" + user.getHigherPurchase());
+        System.out.println("Categoria cu cele mai mari cheltuieli ale User-ului1 este:" + user.getTheCategoryWithTheHighestPurchase());
         System.out.println("Categoria cu cele mai mici cheltuieli ale User-ului1 este:" + user.getLessPurchase());
-        System.out.println("Toate cheltuielile din intervalul ales sunt" + user.getSpendingByInterval(100, 200));
+        System.out.println("Toate cheltuielile din intervalul ales sunt" + user.getSpendginsWIthPriceBetween(100, 200));
 
         //Sortarea tuturor cheltuielilor dupa pret
         Collections.sort(purchases);

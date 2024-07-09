@@ -1,4 +1,4 @@
-package src.colections.exercitii;
+package colections.exercitii;
 
 import java.util.ArrayList;
 import java.util.List;

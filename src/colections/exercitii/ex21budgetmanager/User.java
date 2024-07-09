@@ -72,16 +72,44 @@ public class User {
 
     //Vizualizarea categoriei in care a cheltuit cel mai mult/mai putin
 
-    public Category getHigherPurchase() {
-        double maxSpending = 0;
+
+    public Category getTheCategoryWithTheHighestPurchase() {
+
+        /*double maxSpending = 0;
         Category maxCategory = null;
         for (Purchase purchase : purchases) {
-            if (purchase.getPrice() > maxSpending) {
-                maxSpending = purchase.getPrice();
+//            if (purchase.getPrice() > maxSpending) {
+//                maxSpending = purchase.getPrice();
                 maxCategory = purchase.getCategory();
             }
         }
-        return maxCategory;
+        return maxCategory;*/
+        Map<Category, Double> categoriesByPrice = groupCategoriesByTotalPrice();
+        return getAcoloUndeMiamDatTotiBanii(categoriesByPrice);
+    }
+
+    public Category getAcoloUndeMiamDatTotiBanii(Map<Category, Double> categoriesByPrice) {
+        double maxValue = 0;
+        Category acoloUndeMiamDatTotiBanii = null;
+        for (Category category : categoriesByPrice.keySet()) {
+            //daca valoarea de la cheia curenta este mai mare decat maxValue
+            if (categoriesByPrice.get(category) > maxValue) {
+                maxValue = categoriesByPrice.get(category);
+                acoloUndeMiamDatTotiBanii = category;
+            }
+        }
+        return acoloUndeMiamDatTotiBanii;
+    }
+    public Map<Category, Double> groupCategoriesByTotalPrice() {
+        Map<Category, Double> categoriesByPrice = new HashMap<>();
+        for (Purchase purchase : purchases) {
+            if (!categoriesByPrice.containsKey(purchase.getCategory())) {
+                categoriesByPrice.put(purchase.getCategory(), purchase.getPrice());
+            } else {
+                categoriesByPrice.put(purchase.getCategory(), categoriesByPrice.get(purchase.getCategory()) + purchase.getPrice());
+            }
+        }
+        return categoriesByPrice;
     }
 
     public Category getLessPurchase() {
@@ -97,9 +125,10 @@ public class User {
     }
 
 
+
     //Vizualizarea tuturor cheltuielilor dintr-un interval de pret
 
-    public List<Purchase> getSpendingByInterval(int number1, int number2) {
+    public List<Purchase> getSpendginsWIthPriceBetween(int number1, int number2) {
         List<Purchase> allPurchasesByInterval = new ArrayList<>();
         for (Purchase purchase : purchases) {
             if (purchase.getPrice() >= number1 && purchase.getPrice() <= number2) {
@@ -108,7 +137,8 @@ public class User {
         }
         return allPurchasesByInterval;
     }
-//bugetul disponibil;
+
+    //bugetul disponibil;
     public int getAvailableBuget() {
         int spentMoney = 0;
         for (Purchase purchase : purchases) {
@@ -127,7 +157,6 @@ public class User {
         purchases.remove(purchase);
     }
 }
-
 
 
 

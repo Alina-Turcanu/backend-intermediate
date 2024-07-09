@@ -5,22 +5,59 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="069cd80c-2cc6-4055-92f0-a24970c6ba91" name="Changes" comment="backend-intermediate">
-      <change afterPath="$PROJECT_DIR$/src/teme/temeColectii/ex16.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/teme/temeColectii/ex21.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/colections/comparator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/colections/comparator/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/colections/exercitii/ex17anagrame/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/colections/exercitii/ex17anagrame/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/colections/exercitii/ex20IMDBclone/Actor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/colections/exercitii/ex20IMDBclone/Actor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/colections/exercitii/ex20IMDBclone/Genre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/colections/exercitii/ex20IMDBclone/Genre.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/colections/exercitii/ex20IMDBclone/Imdb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/colections/exercitii/ex20IMDBclone/Imdb.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/colections/exercitii/ex20IMDBclone/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/colections/exercitii/ex20IMDBclone/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/colections/exercitii/ex20IMDBclone/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/colections/exercitii/ex20IMDBclone/Movie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/colections/exercitii/ex20IMDBclone/Review.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/colections/exercitii/ex20IMDBclone/Review.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/colections/exercitii/ex20IMDBclone/Type.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/colections/exercitii/ex20IMDBclone/Type.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/teme/teme.iml" beforeDir="false" afterPath="$PROJECT_DIR$/src/teme/teme.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/teme/temeColectii/ex16/Book.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/teme/temeColectii/ex16/Library.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/teme/temeColectii/ex16/Main.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/colections/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/colections/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/colections/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/colections/exercitii/algorithmics/Ex1MaxProfit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/colections/exercitii/algorithmics/Ex2ReplaceWithProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/colections/exercitii/algorithmics/Ex5GroupSameElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/colections/exercitii/algorithmics/ex10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/colections/exercitii/algorithmics/ex3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/colections/exercitii/algorithmics/ex4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/colections/exercitii/algorithmics/ex6/Result.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/colections/exercitii/algorithmics/ex6/ex6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/colections/exercitii/algorithmics/ex7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/colections/exercitii/algorithmics/ex8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/colections/exercitii/algorithmics/ex9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/colections/out/production/colections/colections/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercitiiTeme/Sda2/ex5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercitiiTeme/Sda2/ex6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/colections/exercitii/algorithmics/ReversedPairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/colections/exercitii/algorithmics/ReversedPairs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/colections/exercitii/algorithmics/ex1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/colections/exercitii/ex12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/colections/exercitii/ex12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/colections/out/production/colections/colections/comparator/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/colections/out/production/colections/colections/comparator/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/colections/out/production/colections/colections/exercitii/ex8companymanagement/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/colections/out/production/colections/colections/exercitii/ex8companymanagement/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/production/backend-intermediate/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/out/production/backend-intermediate/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/production/backend-intermediate/src/colections/exercitii/ex12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/production/backend-intermediate/teme.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/production/teme/teme/ex1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/production/teme/teme/ex1/NumberFormatException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/production/teme/temeExceptii/ex2/Candidate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/production/teme/temeExceptii/ex2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/production/teme/temeExceptii/ex2/OutOfLimits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/teme/teme.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/teme/temeColectii/ex1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercitiiTeme/colectii/ex1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/teme/temeColectii/ex1/PhoneBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercitiiTeme/colectii/ex1/PhoneBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/teme/temeColectii/ex11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercitiiTeme/colectii/ex11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/teme/temeColectii/ex2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercitiiTeme/colectii/ex2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/teme/temeColectii/ex22/Booking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercitiiTeme/colectii/ex22/Booking.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/teme/temeColectii/ex22/Guests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercitiiTeme/colectii/ex22/Guests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/teme/temeColectii/ex22/Hotel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercitiiTeme/colectii/ex22/Hotel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/teme/temeColectii/ex22/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercitiiTeme/colectii/ex22/Manager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/teme/temeColectii/ex22/Room.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercitiiTeme/colectii/ex22/Room.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/teme/temeColectii/ex22/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercitiiTeme/colectii/ex22/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/teme/temeColectii/ex3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercitiiTeme/colectii/ex3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/teme/temeColectii/ex4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercitiiTeme/colectii/ex4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/teme/temeColectii/ex5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercitiiTeme/colectii/ex5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/teme/temeColectii/ex6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercitiiTeme/colectii/ex6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/teme/temeExceptii/ex1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercitiiTeme/Exceptii/ex1Exceptii/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/teme/temeExceptii/ex1/NumberFormatException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercitiiTeme/Exceptii/ex1Exceptii/NumberFormatException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/teme/temeExceptii/ex2/Candidate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercitiiTeme/Exceptii/ex2Exceptii/Candidate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/teme/temeExceptii/ex2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercitiiTeme/Exceptii/ex2Exceptii/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/teme/temeExceptii/ex2/OutOfLimits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercitiiTeme/Exceptii/ex2Exceptii/OutOfLimits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/teme/temeSda2/ex4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercitiiTeme/Sda2/ex4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/teme/temeSda2/ex8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercitiiTeme/Sda2/ex8.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +94,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Mihaela/IdeaProjects/backend-intermediate",
+    "last_opened_file_path": "C:/Users/Mihaela/IdeaProjects/backend-intermediate/src",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -160,6 +197,8 @@
       <workItem from="1720023045773" duration="622000" />
       <workItem from="1720244591760" duration="107000" />
       <workItem from="1720246512411" duration="15000" />
+      <workItem from="1720427763857" duration="10000" />
+      <workItem from="1721049233616" duration="304000" />
     </task>
     <task id="LOCAL-00001" summary="backend-intermediate">
       <option name="closed" value="true" />

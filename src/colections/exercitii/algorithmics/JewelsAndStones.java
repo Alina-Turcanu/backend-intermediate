@@ -1,4 +1,7 @@
-package exercitii.algorithmics;
+package colections.exercitii.algorithmics;
+
+import java.util.HashSet;
+import java.util.Set;
 
 public class JewelsAndStones {
 
@@ -19,19 +22,34 @@ public class JewelsAndStones {
         //Input: jewels = "z", stones = "ZZ"
         //Output: 0
 
-
+        String jewels = "ab";
+        String stones = "ababa";
+        System.out.println(countJewels(jewels,stones));
     }
 
-    public static int countJewels (String jewels, String stones ){
-        //trasnfrom de la string-ul jewels la un set cu toate caracterele din jewels
-        //TODO
-        //count initial este 0
-        //pentru fiecare caracter din stones
+        private static Set<Character> convertStringToSet (String jewels){
+            Set<Character> characterSet = new HashSet<>();
+            for (char c : jewels.toCharArray()) {
+                characterSet.add(c);
+            }
+            return characterSet;
+        }
+
+        public static int countJewels (String jewels, String stones){
+            //trasnfrom de la string-ul jewels la un set cu toate caracterele din jewels
+            //TODO
+            //count initial este 0
+            //pentru fiecare caracter din stones
             //daca setul contine caracterul curent
-               //count++
-
-
-        //returnez count;
-        return 0;
+            //count++
+            int count = 0;
+              Set<Character> characterSet = convertStringToSet(jewels);
+            for (int i = 0; i < stones.length(); i++) {
+                if (characterSet.contains(stones.charAt(i))) {
+                    count++;
+                }
+            }
+            //returnez count;
+            return count;
+        }
     }
-}
