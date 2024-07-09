@@ -4,24 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="069cd80c-2cc6-4055-92f0-a24970c6ba91" name="Changes" comment="backend-intermediate">
-      <change afterPath="$PROJECT_DIR$/src/teme/temeColectii/ex16.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/teme/temeColectii/ex21.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/colections/comparator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/colections/comparator/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/colections/exercitii/ex17anagrame/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/colections/exercitii/ex17anagrame/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/colections/exercitii/ex20IMDBclone/Actor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/colections/exercitii/ex20IMDBclone/Actor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/colections/exercitii/ex20IMDBclone/Genre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/colections/exercitii/ex20IMDBclone/Genre.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/colections/exercitii/ex20IMDBclone/Imdb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/colections/exercitii/ex20IMDBclone/Imdb.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/colections/exercitii/ex20IMDBclone/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/colections/exercitii/ex20IMDBclone/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/colections/exercitii/ex20IMDBclone/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/colections/exercitii/ex20IMDBclone/Movie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/colections/exercitii/ex20IMDBclone/Review.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/colections/exercitii/ex20IMDBclone/Review.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/colections/exercitii/ex20IMDBclone/Type.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/colections/exercitii/ex20IMDBclone/Type.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/teme/teme.iml" beforeDir="false" afterPath="$PROJECT_DIR$/src/teme/teme.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/teme/temeColectii/ex16/Book.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/teme/temeColectii/ex16/Library.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/teme/temeColectii/ex16/Main.java" beforeDir="false" />
-    </list>
+    <list default="true" id="069cd80c-2cc6-4055-92f0-a24970c6ba91" name="Changes" comment="backend-intermediate" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../backend-intermediate" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
@@ -46,26 +29,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "Application.ex12.executor": "Run",
-    "Application.ex5.executor": "Run",
-    "Application.ex6.executor": "Run",
-    "Application.src.teme.temeColectii.Main.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Mihaela/IdeaProjects/backend-intermediate",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ex12.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ex5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ex6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.src.teme.temeColectii.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Mihaela/IdeaProjects/backend-intermediate&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.ex12">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="colections.exercitii.ex7countwords.Main" />
@@ -160,6 +143,7 @@
       <workItem from="1720023045773" duration="622000" />
       <workItem from="1720244591760" duration="107000" />
       <workItem from="1720246512411" duration="15000" />
+      <workItem from="1720427763857" duration="10000" />
     </task>
     <task id="LOCAL-00001" summary="backend-intermediate">
       <option name="closed" value="true" />
