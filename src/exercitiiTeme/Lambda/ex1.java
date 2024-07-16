@@ -39,10 +39,17 @@ public class ex1 {
         String result = everySecondChar.apply("1234567890");
         System.out.println(result);
 
-        everySecondCharacter(everySecondChar,"1234");
+        System.out.println(everySecondCharacter(everySecondChar, "1234"));
 
     }
 
-    public static void everySecondCharacter(Function<String,String>everySecondChar,String string){
+    public static String everySecondCharacter(Function<String, String> everySecondChar, String string) {
+            StringBuilder returnVal = new StringBuilder();
+            for (int i = 0; i < string.length(); i++) {
+                if (i % 2 == 1) {
+                    returnVal.append(string.charAt(i));
+                }
+            }
+            return returnVal.toString();
+        };
     }
-}
