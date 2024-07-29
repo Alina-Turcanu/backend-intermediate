@@ -1,8 +1,6 @@
-<<<<<<< HEAD
+
 package colections.exercitii.algorithmics;
-=======
-package algortimica;
->>>>>>> origin/master
+
 
 import java.util.ArrayList;
 import java.util.HashSet;

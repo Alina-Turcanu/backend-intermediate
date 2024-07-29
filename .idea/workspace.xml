@@ -5,22 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="069cd80c-2cc6-4055-92f0-a24970c6ba91" name="Changes" comment="backend-intermediate">
-      <change afterPath="$PROJECT_DIR$/src/teme/temeColectii/ex16.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/teme/temeColectii/ex21.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/colections/comparator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/colections/comparator/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/colections/exercitii/ex17anagrame/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/colections/exercitii/ex17anagrame/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/colections/exercitii/ex20IMDBclone/Actor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/colections/exercitii/ex20IMDBclone/Actor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/colections/exercitii/ex20IMDBclone/Genre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/colections/exercitii/ex20IMDBclone/Genre.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/colections/exercitii/ex20IMDBclone/Imdb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/colections/exercitii/ex20IMDBclone/Imdb.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/colections/exercitii/ex20IMDBclone/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/colections/exercitii/ex20IMDBclone/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/colections/exercitii/ex20IMDBclone/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/colections/exercitii/ex20IMDBclone/Movie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/colections/exercitii/ex20IMDBclone/Review.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/colections/exercitii/ex20IMDBclone/Review.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/colections/exercitii/ex20IMDBclone/Type.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/colections/exercitii/ex20IMDBclone/Type.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/teme/teme.iml" beforeDir="false" afterPath="$PROJECT_DIR$/src/teme/teme.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/teme/temeColectii/ex16/Book.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/teme/temeColectii/ex16/Library.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/teme/temeColectii/ex16/Main.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercitiiTeme/Lambda/ex2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercitiiTeme/Lambda/ex2/NameComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercitiiTeme/Lambda/ex2/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercitiiTeme/Lambda/ex3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exercitiiTeme/Sda2/ex10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/colections/exercitii/algorithmics/ReversedPairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/colections/exercitii/algorithmics/ReversedPairs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/production/backend-intermediate/colections/exercitii/algorithmics/ReversedPairs.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/out/production/backend-intermediate/colections/exercitii/algorithmics/ReversedPairs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/production/backend-intermediate/temeColectii/ex22/Booking.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/production/backend-intermediate/temeColectii/ex22/Guests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/production/backend-intermediate/temeColectii/ex22/Hotel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/production/backend-intermediate/temeColectii/ex22/Manager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/production/backend-intermediate/temeColectii/ex22/Room.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/out/production/backend-intermediate/temeColectii/ex22/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/teme/temeColectii/ex22/Booking.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/teme/temeColectii/ex22/Guests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/teme/temeColectii/ex22/Hotel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/teme/temeColectii/ex22/Manager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/teme/temeColectii/ex22/Room.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/teme/temeColectii/ex22/User.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +60,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Mihaela/IdeaProjects/backend-intermediate",
+    "last_opened_file_path": "C:/Users/Mihaela/IdeaProjects/backend-intermediate/src",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -160,6 +163,7 @@
       <workItem from="1720023045773" duration="622000" />
       <workItem from="1720244591760" duration="107000" />
       <workItem from="1720246512411" duration="15000" />
+      <workItem from="1721732067316" duration="604000" />
     </task>
     <task id="LOCAL-00001" summary="backend-intermediate">
       <option name="closed" value="true" />
